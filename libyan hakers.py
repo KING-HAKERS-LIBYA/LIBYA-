@@ -1,4 +1,3 @@
-ايمport os
-os system ("clear")
+    التشغيل ( "clear" )
 
 https://github.com/thelinuxchoice/shellphish
